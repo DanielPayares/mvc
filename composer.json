@@ -1,0 +1,10 @@
+{
+    "name": "daniel/daniel",
+    "authors": [
+        {
+            "name": "Daniel Payares",
+            "email": "danielpayaresl@gmail.com"
+        }
+    ],
+    "require": {}
+}
